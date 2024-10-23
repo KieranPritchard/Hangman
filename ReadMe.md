@@ -12,6 +12,6 @@ There was a few challenges when I came back to programming as well as this proje
 
 ## How to Use the Project
 
-## Tests
-
 ## Licenses
+
+License is avalible in the "doc" folder.
