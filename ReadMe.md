@@ -1,5 +1,14 @@
 # Hangman
 
+<div align="center">
+    <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/KieranPritchard/Hangman">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/KieranPritchard/Hangman">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/KieranPritchard/Hangman">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KieranPritchard/Hangman">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/KieranPritchard/Hangman">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KieranPritchard/Hangman">
+</div>
+
 ## Project Description
 
 This project is a terminal based verison of hangman. The rules of the game are the same, the only difference is the computer chooses a word from a list and not the user. It works by asking the user for a letter to see if it appears in the word, if all letters are guessed then the user wins. If the letter you guess is not in the word it detucts a try from the "tries" varible, there are 10 tries in total.
