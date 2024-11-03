@@ -17,10 +17,26 @@ The reason behind this project was because, for the 3 - 5 months in the lead up 
 
 There was a few challenges when I came back to programming as well as this project. these included syntaxs for more advance functionality, list methods, custom functions, and for and while loops. I overcame this by refering back to previous projects i had done, use of the internet to research topics. My main take-away to this, dont let outside influences make your health and wellbeing come second always put your self first.
 
-## How to Install and Run the Project
-
 ## How to Use the Project
+
+1. **Clone The Repository:**
+
+    This downloads the repository to your local device, this can be done with git.
+
+2. **Run The Project:**
+
+    Firstly, open a terminal and navigate to the folder where the project is saved. then you can run the project using Python: `python Hangman.py`.
+
+3. **Play The Game:**
+
+    * After you start the game, you'll have 10 attempts to guess the right word.
+    * Each time you are prompted, input a single letter.
+    * The game will tell you if the letter you guess is correct, incorrect, or already guessed.
+
+4. **Winning Or Losing**
+
+    If you guess all the letters in the word in the 10 tries, you will win. However, if you run out of attempts you lose.
 
 ## Licenses
 
-License is avalible in the "doc" folder.
+License is avalible in the root of the repository.
