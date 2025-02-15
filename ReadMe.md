@@ -1,42 +1,43 @@
 # Hangman
 
 <div align="center">
-    <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/KieranPritchard/Hangman">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/KieranPritchard/Hangman">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/KieranPritchard/Hangman">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KieranPritchard/Hangman">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/KieranPritchard/Hangman">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KieranPritchard/Hangman">
+
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/KieranPritchard/Hangman">
+
+<img alt="GitHub License" src="https://img.shields.io/github/license/KieranPritchard/Hangman">
+
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/KieranPritchard/Hangman">
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KieranPritchard/Hangman">
+
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/KieranPritchard/Hangman">
+
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KieranPritchard/Hangman">
+
 </div>
-
 ## Project Description
-
-This project is a terminal based verison of hangman. The rules of the game are the same, the only difference is the computer chooses a word from a list and not the user. It works by asking the user for a letter to see if it appears in the word, if all letters are guessed then the user wins. If the letter you guess is not in the word it detucts a try from the "tries" varible, there are 10 tries in total.
-
-The reason behind this project was because, for the 3 - 5 months in the lead up of the 2024 summer GCSE exams I had to stop coding and learning the things I want to. why I had to stop was the school had the students on very tight revision schedule with every lession being what would normally be revision someone would do in their own time at home, unfortunatly they were heavily pushing home learning alongside this method as well so it was very tiring.unfortunatly because the exams automatically override my own study, so I spend this time away from what i would of liked to have done at home. to sum up this project is just so I can start back up with my home studys and passions again, after I long hiatus of learning.
-
-There was a few challenges when I came back to programming as well as this project. these included syntaxs for more advance functionality, list methods, custom functions, and for and while loops. I overcame this by refering back to previous projects i had done, use of the internet to research topics. My main take-away to this, dont let outside influences make your health and wellbeing come second always put your self first.
-
+### Objective
+To practise python again after a hiatus of coding, due to sixth-forms very tight and tiring exam prep schedule not allowing room for much free time. So this project is to start to improve proficiency.
+### Technology and Tools Used:
+* **Language:** Python.
+* **Framework/Library:** Random.
+* **Tools:** VS Code.
+### Challenges Faced
+Remembering how to put into practise everything i learned: theory, methods, and advanced functionality. I overcame this by referring back to notes I made, from when i was learning. I also referred back to my knowledge from projects and code I had done before.
+### Outcome
+Managed to create a new project to regain proficiency from before coding hiatus. also managed to create a simple hangman game in the progress. 
 ## How to Use the Project
-
 1. **Clone The Repository:**
-
-    This downloads the repository to your local device, this can be done with git.
-
+	* This downloads the repository to your local device, this can be done with git.
 2. **Run The Project:**
-
-    Firstly, open a terminal and navigate to the folder where the project is saved. then you can run the project using Python: `python Hangman.py`.
-
+	* Open a terminal and navigate to the folder where the project is saved. 
+	* Then run the project using Python: `python Hangman.py`.
 3. **Play The Game:**
-
-    * After you start the game, you'll have 10 attempts to guess the right word.
-    * Each time you are prompted, input a single letter.
-    * The game will tell you if the letter you guess is correct, incorrect, or already guessed.
-
+	* After you start the game, you'll have 10 attempts to guess the right word.
+	* Each time you are prompted, input a single letter.
+	* The game will tell you if the letter you guess is correct, incorrect, or already guessed.
 4. **Winning Or Losing**
-
-    If you guess all the letters in the word in the 10 tries, you will win. However, if you run out of attempts you lose.
-
+	* If you guess all the letters in the word in the 10 tries you will win. 
+	* However, if you run out of attempts you lose.
 ## Licenses
-
-License is avalible in the root of the repository.
+License is located in the root of the repository.
