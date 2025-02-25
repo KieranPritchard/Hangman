@@ -15,6 +15,7 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KieranPritchard/Hangman">
 
 </div>
+
 ## Project Description
 ### Objective
 To practise python again after a hiatus of coding, due to sixth-forms very tight and tiring exam prep schedule not allowing room for much free time. So this project is to start to improve proficiency.
